@@ -11,7 +11,7 @@
             {
                 "type": "Link",
                 "label": "Porjects",
-                "url": "/work",
+                "url": "/projects",
                 "iconPosition": "left"
             },
             {
