@@ -16,15 +16,15 @@
             },
             {
                 "type": "Link",
+                "label": "Journal",
+                "url": "/journal"
+            },
+            {
+                "type": "Link",
                 "label": "About",
                 "url": "/about",
                 "iconPosition": "right",
                 "showIcon": false
-            },
-            {
-                "type": "Link",
-                "label": "Journal",
-                "url": "/journal"
             }
         ],
         "socialLinks": [],
