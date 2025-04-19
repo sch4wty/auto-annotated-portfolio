@@ -29,6 +29,7 @@ sections:
           - pr-4
         flexDirection: col-reverse
         textAlign: left
+        borderRadius: none
     type: HeroSection
     actions: []
     media:
