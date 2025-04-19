@@ -10,7 +10,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Porjects",
+                "label": "Gallery",
                 "url": "/projects",
                 "iconPosition": "left"
             },
