@@ -10,16 +10,16 @@
         "primaryLinks": [
             {
                 "type": "Link",
+                "label": "Gallery",
+                "url": "/gallery",
+                "iconPosition": "left"
+            },
+            {
+                "type": "Link",
                 "label": "Home",
                 "url": "/home",
                 "iconPosition": "right",
                 "showIcon": false
-            },
-            {
-                "type": "Link",
-                "label": "Gallery",
-                "url": "/gallery",
-                "iconPosition": "left"
             },
             {
                 "type": "Link",
