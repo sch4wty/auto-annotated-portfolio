@@ -6,7 +6,7 @@
     "onDark": "#ffffff",
     "primary": "#ffffff",
     "onPrimary": "#ffffff",
-    "secondary": "#ffffff",
+    "secondary": "#000000",
     "onSecondary": "#ffffff",
     "complementary": "#ffffff",
     "onComplementary": "#000000",
