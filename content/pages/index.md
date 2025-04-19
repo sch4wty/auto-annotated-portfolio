@@ -28,7 +28,7 @@ sections:
           - pl-4
           - pr-4
         flexDirection: col-reverse
-        textAlign: left
+        textAlign: center
         borderRadius: none
         borderColor: border-(--theme-light)
     type: HeroSection
