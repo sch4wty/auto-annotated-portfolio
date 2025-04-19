@@ -16,24 +16,26 @@ sections:
     styles:
       self:
         height: auto
-        width: wide
+        width: full
         margin:
           - mt-0
           - mb-0
           - ml-0
           - mr-0
         padding:
-          - pt-36
-          - pb-48
+          - pt-10
+          - pb-10
           - pl-4
           - pr-4
-        flexDirection: row-reverse
-        textAlign: left
+        flexDirection: col-reverse
+        textAlign: center
+        borderRadius: none
+        borderColor: border-(--theme-light)
     type: HeroSection
     actions: []
     media:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/bg2.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
