@@ -16,7 +16,7 @@
             },
             {
                 "type": "Link",
-                "label": "Home",
+                "label": "About",
                 "url": "/home",
                 "iconPosition": "right",
                 "showIcon": false
