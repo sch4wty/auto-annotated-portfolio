@@ -17,7 +17,7 @@
             {
                 "type": "Link",
                 "label": "About",
-                "url": "/home",
+                "url": "/about",
                 "iconPosition": "right",
                 "showIcon": false
             },
