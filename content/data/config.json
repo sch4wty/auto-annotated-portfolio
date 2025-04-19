@@ -24,7 +24,7 @@
             {
                 "type": "Link",
                 "label": "Journal",
-                "url": "/about"
+                "url": "/journal"
             }
         ],
         "socialLinks": [],
