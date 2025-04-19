@@ -24,7 +24,7 @@
             {
                 "type": "Link",
                 "label": "About",
-                "url": "/blog"
+                "url": "/about"
             }
         ],
         "socialLinks": [],
