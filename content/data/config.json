@@ -24,7 +24,8 @@
                 "label": "About",
                 "url": "/about",
                 "iconPosition": "right",
-                "showIcon": false
+                "showIcon": false,
+                "icon": "arrowLeft"
             }
         ],
         "socialLinks": [],
