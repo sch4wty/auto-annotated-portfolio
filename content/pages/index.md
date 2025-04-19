@@ -24,7 +24,7 @@ sections:
           - mr-0
         padding:
           - pt-10
-          - pb-48
+          - pb-10
           - pl-4
           - pr-4
         flexDirection: row-reverse
