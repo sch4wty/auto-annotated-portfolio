@@ -30,6 +30,7 @@ sections:
         flexDirection: col-reverse
         textAlign: left
         borderRadius: none
+        borderColor: border-(--theme-light)
     type: HeroSection
     actions: []
     media:
