@@ -41,50 +41,5 @@
             "caption": "Caption of the image",
             "elementId": ""
         }
-    },
-    "footer": {
-        "type": "Footer",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
-            }
-        ],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "",
-            "phoneAltText": "",
-            "email": "saltedbatr@gmail.com",
-            "emailAltText": "My email",
-            "address": "Petaling Jaya, Selangor, Malaysia",
-            "addressAltText": "My address"
-        },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
-        "styles": {
-            "self": {
-                "width": "narrow",
-                "padding": [
-                    "pt-16",
-                    "pb-16",
-                    "pr-4",
-                    "pl-4"
-                ]
-            }
-        }
     }
 }
