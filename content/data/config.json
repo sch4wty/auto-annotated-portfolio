@@ -47,12 +47,12 @@
         "primaryLinks": [],
         "contacts": {
             "type": "ContactBlock",
-            "title": "",
-            "phoneNumber": "",
-            "phoneAltText": "Call us",
-            "email": "saltedbatr@gmail.com",
-            "emailAltText": "Email us",
-            "address": "Petaling Jaya, Selangor, Malaysia",
+            "title": "Contact details",
+            "phoneNumber": "850-123-5021",
+            "phoneAltText": "Phone",
+            "email": "john@doe.com",
+            "emailAltText": "Email",
+            "address": "312 Lovely Street, NY",
             "addressAltText": "Address",
             "elementId": ""
         },
