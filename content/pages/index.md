@@ -27,6 +27,7 @@ sections:
         borderRadius: none
         borderColor: border-(--theme-light)
         borderWidth: 0
+        borderStyle: none
     type: HeroSection
     actions: []
     media:
