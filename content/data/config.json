@@ -47,16 +47,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Projects",
-                "altText": "Projects",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
                 "label": "Info",
                 "altText": "Info",
                 "url": "/",
