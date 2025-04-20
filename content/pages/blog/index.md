@@ -44,5 +44,5 @@ topSections:
           - pl-4
           - pr-4
         flexDirection: row
-        textAlign: left
+        textAlign: center
 ---
