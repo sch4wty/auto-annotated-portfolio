@@ -80,7 +80,7 @@
         "copyrightText": "© 2025 SaltedBatr. All rights reserved.\n",
         "styles": {
             "self": {
-                "width": "narrow",
+                "width": "full",
                 "padding": [
                     "pt-16",
                     "pb-16",
