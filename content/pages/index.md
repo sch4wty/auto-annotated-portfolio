@@ -26,6 +26,7 @@ sections:
         textAlign: center
         borderRadius: none
         borderColor: border-(--theme-light)
+        borderWidth: 8
     type: HeroSection
     actions: []
     media:
