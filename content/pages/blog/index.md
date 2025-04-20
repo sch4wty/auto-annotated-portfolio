@@ -40,7 +40,7 @@ topSections:
         width: full
         padding:
           - pt-5
-          - pb-16
+          - pb-5
           - pl-4
           - pr-4
         flexDirection: row
