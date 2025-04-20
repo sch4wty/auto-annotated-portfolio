@@ -44,28 +44,7 @@
     },
     "footer": {
         "type": "Footer",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Projects",
-                "altText": "Projects",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Info",
-                "altText": "Info",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            }
-        ],
+        "primaryLinks": [],
         "contacts": {
             "type": "ContactBlock",
             "title": "",
@@ -80,10 +59,10 @@
         "copyrightText": "© 2025 SaltedBatr. All rights reserved.\n",
         "styles": {
             "self": {
-                "width": "narrow",
+                "width": "full",
                 "padding": [
-                    "pt-16",
-                    "pb-16",
+                    "pt-5",
+                    "pb-5",
                     "pl-4",
                     "pr-4"
                 ]
