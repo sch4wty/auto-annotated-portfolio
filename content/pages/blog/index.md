@@ -39,7 +39,7 @@ topSections:
         height: auto
         width: full
         padding:
-          - pt-16
+          - pt-5
           - pb-16
           - pl-4
           - pr-4
